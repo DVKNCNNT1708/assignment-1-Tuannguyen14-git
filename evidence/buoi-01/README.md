@@ -4,12 +4,12 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
-- Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
-- Ghi chú:
+- Họ tên:Nguyễn Mạnh Tuân
+- Mã sinh viên:1771020711
+- Nhóm:Nhóm 3
+- Vai trò dự kiến trong nhóm: Trưởng nhóm
+- Hệ điều hành: Windows 11
+- Ghi chú:Đã cài đặt thành công Git, Docker Desktop, Node.js và chạy smoke test thành công.
 
 ## Các file minh chứng nên có
 
